@@ -1,1 +1,1 @@
-var llave_externa=1234;
+var llave_externa=12345;
